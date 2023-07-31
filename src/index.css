@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.cardMain:hover .cardText{
+    transition: 0.7s;
+    transform: translateX(0);
+}
+  
+
